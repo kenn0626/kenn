@@ -1,2 +1,1 @@
-# kenn
-Ask and Reply bidirectional communication on Socket
+A Redis GUI client, By java
