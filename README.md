@@ -1,1 +1,1 @@
-A Redis GUI client, By java
+A Redis GUI client, By java, developing
